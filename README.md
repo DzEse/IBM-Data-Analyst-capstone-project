@@ -19,5 +19,3 @@ Involves creating charts and graphs to visualize the data
 Week 5 building a dashboard
 I'll use IBM Cognos Analytics to build a dashboard that will compile all of the data and nd spot trends and insights that might include the following: Which programming languages are most in demand today? What are the most in-demand database skills? Which IDEs are the most popular?
 
-Week 6 presentation of findings.
-I use storytelling to share my findings in a presentation.
